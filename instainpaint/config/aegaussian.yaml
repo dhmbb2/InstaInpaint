@@ -1,0 +1,10 @@
+mse:
+  rgb: 1.0
+  mask: 1.0
+
+perceptual:
+  rgb: 0.5
+  mask: 0.0
+
+depth_input: 0.1
+mask_input: 0.0
